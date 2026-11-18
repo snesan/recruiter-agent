@@ -7,6 +7,7 @@ __pycache__/
 .Rhistory
 token.json
 credentials*.json
-secrets/
+secrets/credentials.json
+secrets/token.json
 deployment/aws/task-definition.json
 deployment/aws/secrets-policy.json
