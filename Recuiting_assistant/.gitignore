@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.Rhistory
+token.json
+credentials*.json
+secrets/
+deployment/aws/task-definition.json
+deployment/aws/secrets-policy.json
